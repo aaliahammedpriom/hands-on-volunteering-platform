@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/aaliahammedpriom/hands-on-volunteering-platform-client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/aaliahammedpriom/hands-on-volunteering-platform-server.git
